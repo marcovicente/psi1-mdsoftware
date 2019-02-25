@@ -3,7 +3,7 @@
 
 
 ## Student Resources 
-* [Applying for a student developer pack](https://help.github.com/en/articles/applying-for-a-student-developer-pack)
+* [GitHub - Applying for a student developer pack](https://help.github.com/en/articles/applying-for-a-student-developer-pack)
 
 ## Authors 
 [Marco Vicente](https://scholar.google.com/citations?user=uKVB2XgAAAAJ&hl=en&oi=sra)
